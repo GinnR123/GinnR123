@@ -1,8 +1,8 @@
 # GinnR123
 
-# Hey, I'm Ginn Russel G. Dacalos
-
 ![Alt Text](https://c.tenor.com/6NxVCaeCZ_oAAAAd/tenor.gif)
+
+# Hey, I'm Ginn Russel G. Dacalos
 
 Just learning, building things, breaking them, and figuring them out along the way.
 
