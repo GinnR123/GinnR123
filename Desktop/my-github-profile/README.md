@@ -1,6 +1,6 @@
 # GinnR123
 
-[🕺 Orc Dance GIFs](https://tenor.com/search/orc-dance-gifs)
+[🕺 Orc Dance GIFs](https://tenor.com/view/warcraft-orc-dance-gif-9891917)
 
 # Hey, I'm Ginn Russel G. Dacalos
 
