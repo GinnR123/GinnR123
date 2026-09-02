@@ -8,8 +8,8 @@ I'm a student who's getting into programming and technology. I'm still a beginne
 
 ## Currently
 
-**Learning:** Programming, Git, and different technologies  
-**Building:** Small projects and experiments  
+**Learning:** Programming, Git, and different technologies
+**Building:** Small projects and experiments
 **Trying to:** Get better at turning ideas into something that actually works
 
 ## What I Know So Far
@@ -18,25 +18,15 @@ I'm a student who's getting into programming and technology. I'm still a beginne
 
 I'm still getting comfortable with these, and there's a lot more I want to learn.
 
-## Things I'm Exploring
+## Projects
 
-* Programming fundamentals
-* Git and GitHub
-* Web development
-* Markdown
-* Different programming languages
-* Building small projects
+### My GitHub Portfolio
 
-## Resources
+A simple collection of the projects and experiments I've worked on while learning.
 
-A few resources and references I've found useful while learning.
+**Built with:** Markdown · Git · GitHub
 
-* [GitHub Docs](https://docs.github.com/)
-* [MDN Web Docs](https://developer.mozilla.org/)
-* [Python Documentation](https://docs.python.org/3/)
-* [Learning Resource](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-## More Coming Soon
+### More coming soon
 
 I'm still learning and figuring out what I want to build. I'll add more projects as I go.
 
@@ -63,7 +53,7 @@ Most of what I learn comes from actually trying things and making mistakes along
 
 ## Connect
 
-**GitHub:** GinnR123  
+**GitHub:** GinnR123
 **Email:** [dacalosginnr123@gmail.com](mailto:dacalosginnr123@gmail.com)
 
 ---
