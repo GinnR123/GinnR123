@@ -16,7 +16,7 @@ I'm a student who's getting into programming and technology. I'm still a beginne
 
 ## What I Know So Far
 
-`Python` `HTML` `CSS` `JavaScript` `Git` `GitHub`
+`Python` `Java` `Git` `GitHub`
 
 I'm still getting comfortable with these, and there's a lot more I want to learn.
 
