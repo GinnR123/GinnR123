@@ -8,8 +8,8 @@ I'm a student who's getting into programming and technology. I'm still a beginne
 
 ## Currently
 
-**Learning:** Programming, Git, and different technologies
-**Building:** Small projects and experiments
+**Learning:** Programming, Git, and different technologies  
+**Building:** Small projects and experiments  
 **Trying to:** Get better at turning ideas into something that actually works
 
 ## What I Know So Far
@@ -26,6 +26,8 @@ A simple collection of the projects and experiments I've worked on while learnin
 
 **Built with:** Markdown · Git · GitHub
 
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-181717?style=for-the-badge&logo=github)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 ### More coming soon
 
 I'm still learning and figuring out what I want to build. I'll add more projects as I go.
@@ -38,22 +40,22 @@ Most of what I learn comes from actually trying things and making mistakes along
 
 ## 2026 Goals
 
-* [ ] Build my first major project
-* [ ] Learn a new programming language
-* [ ] Get more comfortable with Git and GitHub
-* [ ] Try contributing to an open-source project
-* [ ] Build something I'm genuinely proud of
+- [ ] Build my first major project
+- [ ] Learn a new programming language
+- [ ] Get more comfortable with Git and GitHub
+- [ ] Try contributing to an open-source project
+- [ ] Build something I'm genuinely proud of
 
 ## A Little About Me
 
-* I like discovering and learning new things
-* I enjoy figuring out how things work
-* I'm interested in technology and creativity
-* I'm learning how to turn ideas into things people can actually use
+- I like discovering and learning new things
+- I enjoy figuring out how things work
+- I'm interested in technology and creativity
+- I'm learning how to turn ideas into things people can actually use
 
 ## Connect
 
-**GitHub:** GinnR123
+**GitHub:** GinnR123  
 **Email:** [dacalosginnr123@gmail.com](mailto:dacalosginnr123@gmail.com)
 
 ---
