@@ -1,8 +1,8 @@
 # GinnR123
 
-<p align="center">
-![Alt Text](https://c.tenor.com/6NxVCaeCZ_oAAAAd/tenor.gif)
-</p>
+<div align="center">
+  ![Alt Text](https://c.tenor.com/6NxVCaeCZ_oAAAAd/tenor.gif)
+</div>
 
 # Hey, I'm Ginn Russel G. Dacalos
 
