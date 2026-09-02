@@ -1,66 +1,61 @@
-"# GinnR123" 
+# GinnR123
 
-⠀⠀⠀⠀⠀
-# Hey, I'm Ginn Russel G. Dacalos 👋
+# Hey, I'm Ginn Russel G. Dacalos
 
-> Learning, building, breaking things, and figuring them out.
+Just learning, building things, breaking them, and figuring them out along the way.
 
-I'm a student interested in technology, creativity, and building things that solve real problems.
+I'm a student who's getting into programming and technology. I'm still a beginner, so this GitHub is mostly a place where I keep the things I'm working on, the things I'm learning, and the occasional experiment.
 
-## 🚀 Currently
+## Currently
 
-🔨 **Building:** My GitHub portfolio
+**Learning:** Programming, Git, and different technologies
+**Building:** Small projects and experiments
+**Trying to:** Get better at turning ideas into something that actually works
 
-📚 **Learning:** Programming, Git, and new technologies
-
-🎯 **Working toward:** Becoming better at turning ideas into real projects
-
-## 🛠️ Skills
+## What I Know So Far
 
 `Python` `HTML` `CSS` `JavaScript` `Git` `GitHub`
 
-## 💻 Projects
+I'm still getting comfortable with these, and there's a lot more I want to learn.
 
-### 🌐 My GitHub Portfolio
-A personal portfolio documenting my projects, skills, and progress.
+## Projects
+
+### My GitHub Portfolio
+
+A simple collection of the projects and experiments I've worked on while learning.
 
 **Built with:** Markdown · Git · GitHub
 
-### 🚧 More coming soon...
-I'm currently learning and building new projects. Check back later to see what I've made!
+### More coming soon
 
-## 💡 My Approach
+I'm still learning and figuring out what I want to build. I'll add more projects as I go.
 
-> Think → Build → Break → Debug → Learn → Repeat
+## How I Learn
 
-I believe the best way to learn technology is to experiment, make mistakes, fix them, and keep building.
+> Try → Get stuck → Figure it out → Learn something → Try again
 
-## 🎯 2026 Goals
+Most of what I learn comes from actually trying things and making mistakes along the way.
 
-- [ ] Build my first major project
-- [ ] Learn a new programming language
-- [ ] Improve my Git and GitHub skills
-- [ ] Contribute to an open-source project
-- [ ] Build projects I'm genuinely proud of
+## 2026 Goals
 
-## ✨ A Little About Me
+* [ ] Build my first major project
+* [ ] Learn a new programming language
+* [ ] Get more comfortable with Git and GitHub
+* [ ] Try contributing to an open-source project
+* [ ] Build something I'm genuinely proud of
 
-- 🎧 I enjoy discovering new things
-- 🧩 I like figuring out how things work
-- 💻 I'm always learning something new
-- 🚀 I want to turn ideas into things people can actually use
+## A Little About Me
 
-## 📫 Connect With Me
+* I like discovering and learning new things
+* I enjoy figuring out how things work
+* I'm interested in technology and creativity
+* I'm learning how to turn ideas into things people can actually use
 
-**GitHub:** [Your GitHub Username]
+## Connect
 
-**Email:** [Your Email]
+**GitHub:** GinnR123
+**Email:** [dacalosginnr123@gmail.com](mailto:dacalosginnr123@gmail.com)
 
 ---
 
-⭐ Thanks for visiting my profile!
-
-
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
+Thanks for stopping by.
