@@ -1,5 +1,5 @@
 # GinnR123
-
+<img src="https://c.tenor.com/6NxVCaeCZ_oAAAAd/tenor.gif" width="500" alt="Alt Text" />
 # Hey, I'm Ginn Russel G. Dacalos
 
 Just learning, building things, breaking them, and figuring them out along the way.
